@@ -1,4 +1,5 @@
 import 'package:emart_app/views/splash_screen/splash_screen.dart';
+import 'package:emart_app/views/third_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'consts/consts.dart';
@@ -19,7 +20,7 @@ class MyApp extends StatelessWidget {
           appBarTheme: AppBarTheme(backgroundColor: Colors.transparent),
           fontFamily: regular),
       debugShowCheckedModeBanner: false,
-      home: SplashScreen(),
+      home: ThirdScreen(),
     );
   }
 }

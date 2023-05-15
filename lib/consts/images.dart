@@ -130,3 +130,4 @@ const imgTwocheckout = "assets/images/twocheckout.png";
 const imgVogue = "assets/images/vogue.png";
 const imgWallet = "assets/images/wallet.png";
 const bluebg = 'assets/images/blue-bg.png';
+const threebg = 'assets/images/3bg.jpeg';
